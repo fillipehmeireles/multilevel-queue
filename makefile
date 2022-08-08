@@ -1,2 +1,2 @@
 run:
-	gcc queue.c -o ./bin/queue && ./bin/queue
+	gcc main.c -o ./bin/queue && ./bin/queue
